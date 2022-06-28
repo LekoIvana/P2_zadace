@@ -1,6 +1,6 @@
 import re
  
-regex = "^i[0-5]+\l.*l$"
+regex = "^i[0-5]+\s.*l$"
 
 while True:
     unos = input("unesite ime:")
